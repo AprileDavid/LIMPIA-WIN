@@ -34,7 +34,7 @@ Deja de preocuparte por el espacio en disco y el rendimiento lento. LIMPIA WIN s
 ### 💬 Comunidad Oficial
 Únete a nuestra comunidad en WhatsApp para soporte técnico, novedades y tips exclusivos de optimización:
 
-👉 **[LINK DE TU COMUNIDAD DE WHATSAPP]**
+👉 **https://chat.whatsapp.com/Epkd8u0NLuv1dykKcRmDzl**
 
 ---
 
