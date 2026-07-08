@@ -1,0 +1,14 @@
+﻿{
+  "App": "CleanerApp",
+  "Version": "1.0.0",
+  "Stable": true,
+  "ReleaseDate": "2026-01-30",
+  "ReleaseUrl": "https://github.com/AprileDavid/CleanerApp/releases/latest",
+  "Changelog": [
+    "Primera versión estable",
+    "Sistema de auto-update integrado",
+    "Limpieza segura para Windows"
+  ],
+  "MinOS": "Windows 10+",
+  "Architecture": "x64"
+}
